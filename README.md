@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently university student.
+- 🔭 I’m university student and software documentation manager and some projects.
 - 🌱 I’m currently learning HTML, Python and C+.
 - 👯 I’m looking to collaborate on translate Android apps.
 
